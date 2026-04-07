@@ -65,6 +65,9 @@
 | 第二周 | [Python入门]( pyintro.md ) | [Python入门(1)]( http://xzmdsa.openjudge.cn/2026dsahw1/ ) |     |
 | 第三周 | [算法分析]( ch03.md ) |            | [Python基础编程]( http://xzmdsa.openjudge.cn/2026dsaquiz2python/ )        |
 | 第四周 | [线性表]( ch04.md ) |   [线性表]( http://xzmdsa.openjudge.cn/2026dsahw2/ )         |        |
+| 第五周 | [递归与动态规划]( ch05.md ) |           |  [线性表]( http://xzmdsa.openjudge.cn/2026dsaquiz3liner/ )      |
+| 第六周 | [递归与动态规划]( ch05.md ) | [递归与动态规划]( http://xzmdsa.openjudge.cn/2026dsahw3/ )          |       |
+
 
 ## 重要通知
 
@@ -80,3 +83,8 @@
   - [网址]( http://xzmdsa.openjudge.cn/2026dsaquiz2python/ )
 - 3/24/2026 第二次作业
   - [线性表]( http://xzmdsa.openjudge.cn/2026dsahw2/ )
+- 3/31/2026 第五周（4/2/2026）小测，考察 **线性表**
+  - 比赛开放时间：13:00PM~13:40PM，19:00PM~19:40PM
+  - [网址]( http://xzmdsa.openjudge.cn/2026dsaquiz3liner/ )
+- 4/7/2026 第三次作业
+  - [递归与动态规划]( http://xzmdsa.openjudge.cn/2026dsahw3/ )
