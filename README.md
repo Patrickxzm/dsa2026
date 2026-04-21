@@ -61,12 +61,14 @@
 
 | 时间  | 课程内容   |   作业           | 小测                              |
 | --- | -------- | ------------------------------------------------------ | --- |
-| 第一周 | [引言]( ch00.pdf )及[概论]( ch01.pdf )    |        熟悉机房、OpenJudge.cn功能                 | 水平摸底    |
+| 第一周 | [引言]( ch00.pdf )及[概论]( ch01.pdf )    |        熟悉机房、OpenJudge.cn功能                 | [水平摸底]( )    |
 | 第二周 | [Python入门]( pyintro.md ) | [Python入门(1)]( http://xzmdsa.openjudge.cn/2026dsahw1/ ) |     |
 | 第三周 | [算法分析]( ch03.md ) |            | [Python基础编程]( http://xzmdsa.openjudge.cn/2026dsaquiz2python/ )        |
 | 第四周 | [线性表]( ch04.md ) |   [线性表]( http://xzmdsa.openjudge.cn/2026dsahw2/ )         |        |
 | 第五周 | [递归与动态规划]( ch05.md ) |           |  [线性表]( http://xzmdsa.openjudge.cn/2026dsaquiz3liner/ )      |
 | 第六周 | [递归与动态规划]( ch05.md ) | [递归与动态规划]( http://xzmdsa.openjudge.cn/2026dsahw3/ )          |       |
+| 第七周 | [KMP算法]( ch051.md ) |          | [递归与动态规划]( )      |
+| 第八周 | [排序与查找]( ch06.md ) | [排序与查找]( )         |       |
 
 
 ## 重要通知
@@ -79,12 +81,17 @@
   - [Python入门(1)]( http://xzmdsa.openjudge.cn/2026dsahw1/ )
   - 每日一练：[【力扣】整数翻转]( https://leetcode.com/problems/reverse-integer )
 - 3/17/2026 第三周（3/19/2026）小测，考察 **Python基础编程**
-  - 比赛开放时间：13:00PM~13:40PM，19:00PM~19:40PM
+  - 比赛开放时间：13:00PM~15:00PM，19:00PM~21:00PM
   - [网址]( http://xzmdsa.openjudge.cn/2026dsaquiz2python/ )
 - 3/24/2026 第二次作业
   - [线性表]( http://xzmdsa.openjudge.cn/2026dsahw2/ )
 - 3/31/2026 第五周（4/2/2026）小测，考察 **线性表**
-  - 比赛开放时间：13:00PM~13:40PM，19:00PM~19:40PM
+  - 比赛开放时间：13:00PM~15:00PM，19:00PM~21:00PM
   - [网址]( http://xzmdsa.openjudge.cn/2026dsaquiz3liner/ )
 - 4/7/2026 第三次作业
   - [递归与动态规划]( http://xzmdsa.openjudge.cn/2026dsahw3/ )
+- 4/14/2026 第七周（4/16/2026）小测，考察 **递归与动态规划**
+  - 比赛开放时间：13:00PM~15:00PM，19:00PM~21:00PM
+  - [网址]( )
+- 4/21/2026 第四次作业
+  - [排序与查找]( )
