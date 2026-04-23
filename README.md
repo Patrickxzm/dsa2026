@@ -68,7 +68,7 @@
 | 第五周 | [递归与动态规划]( ch05.md ) |           |  [线性表]( http://xzmdsa.openjudge.cn/2026dsaquiz3liner/ )      |
 | 第六周 | [递归与动态规划]( ch05.md ) | [递归与动态规划]( http://xzmdsa.openjudge.cn/2026dsahw3/ )          |       |
 | 第七周 | [KMP算法]( ch051.md ) |          | [递归与动态规划]( )      |
-| 第八周 | [排序与查找]( ch06.md ) | [排序与查找]( )         |       |
+| 第八周 | [排序与查找]( ch06.md ) | [排序与查找]( http://xzmdsa.openjudge.cn/2026dsahw4/ )         |       |
 
 
 ## 重要通知
@@ -94,4 +94,4 @@
   - 比赛开放时间：13:00PM~15:00PM，19:00PM~21:00PM
   - [网址]( )
 - 4/21/2026 第四次作业
-  - [排序与查找]( )
+  - [排序与查找]( http://xzmdsa.openjudge.cn/2026dsahw4/ )
