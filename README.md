@@ -69,6 +69,12 @@
 | 第六周 | [递归与动态规划]( ch05.md ) | [递归与动态规划]( http://xzmdsa.openjudge.cn/2026dsahw3/ )          |       |
 | 第七周 | [KMP算法]( ch051.md ) |          | [递归与动态规划]( )      |
 | 第八周 | [排序与查找]( ch06.md ) | [排序与查找]( http://xzmdsa.openjudge.cn/2026dsahw4/ )         |       |
+| 第九周 | [排序与查找]( ch06.md ) |          |       |
+| 第十周 |  五一假停课 |          |  [排序与查找]( http://xzmdsa.openjudge.cn/2026dsaquiz5sortfind/ )     |
+| 第十一周 | [树及算法]( ch07.md ) | [树及算法]( http://xzmdsa.openjudge.cn/2026dsahw5/ )         |    |
+| 第十二周 | [树及算法]( ch07.md ) |          |    |
+| 第十三周 |                       |          |    |
+| 第十四周 |                       |          | 期末机考   |
 
 
 ## 重要通知
@@ -95,3 +101,11 @@
   - [网址]( )
 - 4/21/2026 第四次作业
   - [排序与查找]( http://xzmdsa.openjudge.cn/2026dsahw4/ )
+- 4/28/2026 第十周（5/7/2026）小测，考察 **排序与查找**
+  - 比赛开放时间：13:00PM~15:00PM，19:00PM~21:00PM
+  - [网址]( http://xzmdsa.openjudge.cn/2026dsaquiz5sortfind/ )
+- 5/12/2026 第十四周(6/4/2026) **期末机考**
+  - 比赛开放时间：13:00PM~15:00PM
+  - 没有补考机会
+- 5/14/2026 第五次作业
+    - [树及算法]( http://xzmdsa.openjudge.cn/2026dsahw5/ ) 
