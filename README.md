@@ -75,7 +75,7 @@
 | 第十二周 | [树及算法]( ch07.md ) |          | [树及算法]( http://xzmdsa.openjudge.cn/2026dsaquiz6tree/ )   |
 | 第十三周 | [图及算法]( ch08.md )    | [图及算法]( http://xzmdsa.openjudge.cn/2026dsahw6/ )         |        |
 | 第十四周 |  [图及算法]( ch08.md )   |          | 期末机考   |
-| 第十五周 |  期末复习   |          |              |
+| 第十五周 |  [期末复习]( finalSimu.pdf )       |    [旧题集]( written_exam_DSA-B_nosolution.md ) [题解]( written_exam_DSA-B.md )   |              |
 
 
 ## 重要通知
