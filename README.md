@@ -115,3 +115,6 @@
   - [网址]( http://xzmdsa.openjudge.cn/2026dsaquiz6tree/ )
 - 5/26/2026 第五次作业
     - [图及算法]( http://xzmdsa.openjudge.cn/2026dsahw6/ ) 
+- 6/9/2026 期末笔试时间及地点
+    - 6月23日（周二）下午14-16点
+    - 二教205
